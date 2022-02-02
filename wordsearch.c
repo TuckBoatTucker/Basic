@@ -1,3 +1,5 @@
+//Created by Daniel Tucker and Justin Dumindin
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
